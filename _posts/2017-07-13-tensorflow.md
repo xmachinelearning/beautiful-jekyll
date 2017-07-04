@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: TensorFlow
+subtitle: Learn TensorFlow with examples
 bigimg: /img/path.jpg
 ---
 
