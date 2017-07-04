@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Deep Learning Group
+title: X Machine Learning Group
 
 # Short description of your site
 description: Explore the world!
@@ -97,7 +97,7 @@ url-pretty: "xmachinelearning.github.io"  # eg. "deanattali.com/beautiful-jekyll
 #google_analytics: ""
 
 # Google Tag Manager ID
-#gtm: ""
+gtm: "UA-102005481-1"
 
 # Facebook App ID
 # fb_app_id: ""
