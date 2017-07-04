@@ -25,8 +25,7 @@ description: Explore the world!
 navbar-links:
   Home: "http://xmachinelearning.github.io"
   About Us: "aboutus"
-  Research: "http://xmachinelearning.github.io"
-  Resources:
+  Research: 
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
   LAB: "http://www.labhealthinfo.uconn.edu/"
