@@ -19,6 +19,10 @@ The X Machine Learning (XML) group develops machine learning and deep learning a
 
 [Xia Xiao](https://xmachinelearning.github.io/aboutus/) 
 
+[Jin Lu](https://xmachinelearning.github.io/aboutus/) 
+
+[Jiangwen Sun](https://xmachinelearning.github.io/aboutus/) 
+
 
 
 ### Links
