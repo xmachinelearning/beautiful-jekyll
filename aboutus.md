@@ -9,7 +9,9 @@ The X Machine Learning (XML) group develops machine learning and deep learning a
 ### Members
 
 [Chao Shang](http://www.chaoshangcs.com/) 
+
 [Aaron Palmer](https://xmachinelearning.github.io/aboutus/) 
+
 [Xia Xiao](https://xmachinelearning.github.io/aboutus/) 
 
 
