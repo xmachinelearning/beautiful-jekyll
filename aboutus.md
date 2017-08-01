@@ -6,6 +6,11 @@ subtitle: X Machine Learning (XML) Group from Prof. Jinbo Bi Lab
 
 The X Machine Learning (XML) group develops machine learning and deep learning algorithms for solving problems involving data with special structure, with an emphasis on healthcare informatics, online social networks and bioinformatics. 
 
+### Faculty
+
+[Jinbo Bi](http://www.engr.uconn.edu/~jinbo/)
+
+
 ### Members
 
 [Chao Shang](http://www.chaoshangcs.com/) 
