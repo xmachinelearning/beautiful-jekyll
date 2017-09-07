@@ -11,7 +11,9 @@ The X Machine Learning (XML) group develops machine learning and deep learning a
 # Deep Learning
 Generative adversarial networks
 Graph convolutional networks
-Domain mapping using neural networks
+Deep Adversarial Domain Mapping
+Deep Learning for Depression Detection using Smartphones and Wearable Devices
+DeepChem: Drug Discovery and Molecule Representation
 
 # Machine Learning
 Imprecisely Supervised Learning
