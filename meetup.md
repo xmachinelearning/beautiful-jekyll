@@ -9,7 +9,7 @@ The X Machine Learning (XML) group develops machine learning and deep learning a
 | Time  | Topics |
 | ------------- | ------------- |
 | September 8, 2017  |  Generative adversarial networks |
-| September , 2017  | Coming soon |
+| September 15, 2017  | Coming soon |
 
 
 
