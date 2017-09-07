@@ -1,52 +1,42 @@
 ---
 layout: post
 title: PyTorch
-subtitle: Learning PyTorch with Examples
+subtitle: PyTorch Learning 
 ---
 
-Learn Pytorch with examples
 
-**Example**
 
-## Generative Adversarial Networks (GAN)
 
-Here's a useless table:
- 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
- 
+## How to install PyTorch
+[Installation](http://pytorch.org/)
 
-How about a yummy crepe?
+## [Pytorch Tutorial](https://github.com/yunjey/pytorch-tutorial)
 
-![Crepe](http://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+## Deep learning examples using PyTorch
 
-Here's a code chunk:
+### [Repository one](https://github.com/pytorch/examples)
+MNIST Convnets\\
+Word level Language Modeling using LSTM RNNs\\
+Training Imagenet Classifiers with Residual Networks\\
+Generative Adversarial Networks (DCGAN)\\
+Variational Auto-Encoders\\
+Superresolution using an efficient sub-pixel convolutional neural network\\
+Hogwild training of shared ConvNets across multiple processes on MNIST\\
+Training a CartPole to balance in OpenAI Gym with actor-critic\\
+Natural Language Inference (SNLI) with GloVe vectors, LSTMs, and torchtext\\
+Time sequence prediction - create an LSTM to learn Sine waves\\
 
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
+### [Repository Two](https://github.com/pytorch/examples)
 
-And here is the same code with syntax highlighting:
+Classification on MNIST\\
+Generative Models\\
+Neural Style Transfer\\
+LSTM
 
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
+### [Repository Three: Generative Models](https://github.com/wiseodd/generative-models)
 
-And here is the same code yet again but with line numbers:
 
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
+
+
+
+

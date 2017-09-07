@@ -8,6 +8,8 @@ The X Machine Learning (XML) group develops machine learning and deep learning a
 
 | Time  | Topics |
 | ------------- | ------------- |
+| July 1, 2017  |  PyTorch |
+| July 13, 2017  |  TensorFlow |
 | September 8, 2017  |  Generative adversarial networks |
 | September 15, 2017  | Coming soon |
 
