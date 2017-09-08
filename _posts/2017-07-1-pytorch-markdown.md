@@ -7,8 +7,7 @@ subtitle: PyTorch Learning
 
 
 
-### 1. How to install PyTorch
-[Installation](http://pytorch.org/)
+### 1. [PyTorch Installation](http://pytorch.org/)
 
 ### 2. [Pytorch Tutorial](https://github.com/yunjey/pytorch-tutorial)
 
