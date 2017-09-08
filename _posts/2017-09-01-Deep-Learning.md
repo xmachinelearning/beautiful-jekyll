@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Deep Learning
+title: Basic materials for Deep Learning
 subtitle: Some materials for deep learning
 bigimg: /img/path.jpg
 ---
