@@ -11,17 +11,23 @@ Tensor computation (like numpy) with strong GPU acceleration\\
 Deep Neural Networks built on a tape-based autograd system
 
 
-### 1. [PyTorch Installation](http://pytorch.org/)
+### 1. PyTorch Installation
 
-### 2. [Pytorch Tutorial](https://github.com/yunjey/pytorch-tutorial)
+[How to install PyTorch?](http://pytorch.org/)
+
+### 2. Pytorch Tutorial
+
+[Pytorch Tutorial](https://github.com/yunjey/pytorch-tutorial)
+
+The [Incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch): a curated list of tutorials, papers, projects, communities and more relating to PyTorch. 
 
 ### 3. Deep learning examples using PyTorch
 
-#### [Repository one](https://github.com/pytorch/examples)
+#### [GitHub Repository one](https://github.com/pytorch/examples)
 
-#### [Repository Two](https://github.com/pytorch/examples)
+#### [GitHub Repository Two](https://github.com/MorvanZhou/PyTorch-Tutorial)
 
-#### [Repository Three: Generative Models](https://github.com/wiseodd/generative-models)
+#### [GitHub Repository Three: Generative Models](https://github.com/wiseodd/generative-models)
 
 
 
