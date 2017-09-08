@@ -4,14 +4,15 @@ title: Meetup
 subtitle: X Machine Learning (XML) Group from Prof. Jinbo Bi Lab 
 ---
 
-The X Machine Learning (XML) group develops machine learning and deep learning algorithms for solving problems involving data with special structure, with an emphasis on healthcare informatics, online social networks and bioinformatics. 
+Schedule
 
 | Time  | Topics |
 | ------------- | ------------- |
 | July 1, 2017  |  PyTorch |
 | July 13, 2017  |  TensorFlow |
-| September 8, 2017  |  Generative adversarial networks |
+| September 8, 2017  |  Paper: Semi-Supervised Classification with Graph Convolutional Networks |
 | September 15, 2017  | Coming soon |
+| September 22, 2017  | Coming soon |
 
 
 
