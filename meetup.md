@@ -4,7 +4,7 @@ title: Meetup
 subtitle: X Machine Learning (XML) Group from Prof. Jinbo Bi Lab 
 ---
 
-Schedule
+### Schedule
 
 | Time  | Topics |
 | ------------- | ------------- |
