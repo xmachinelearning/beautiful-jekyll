@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Basic materials for Deep Learning
-subtitle: Some materials for deep learning
+title: Basic Materials for Deep Learning
+subtitle: Books, Cources, Tutorials and Surveys.
 bigimg: /img/path.jpg
 ---
 
