@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generative Adversarial Networks
-subtitle: GANs model
+title: Deep Learning
+subtitle: Some materials for deep learning
 bigimg: /img/path.jpg
 ---
 
