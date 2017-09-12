@@ -12,8 +12,8 @@ subtitle: X Machine Learning (XML) Group from Prof. Jinbo Bi Lab
 | July 13, 2017 at 2-3pm |  TensorFlow |
 | July 20, 2017 at 2-3pm |  Energy-based Generative Adversarial Network |
 | September 8, 2017 at 2-3pm |  Semi-Supervised Classification with Graph Convolutional Networks & VIGAN Code|
-| September 15, 2017 at 2-3pm | Wasserstein GAN  & Towards Principled Methods for Training Generative Adversarial Networks |
-| September 22, 2017 at 2-3pm | Coming soon |
+| September 22, 2017 at 2-3pm | Wasserstein GAN  & Towards Principled Methods for Training Generative Adversarial Networks |
+| October 6, 2017 at 2-3pm | Coming soon |
 
 Location: ITEB 201A
 
