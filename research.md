@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Us
+title: Research
 subtitle: X Machine Learning (XML) Group from Prof. Jinbo Bi Lab 
 ---
 
