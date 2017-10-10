@@ -23,6 +23,12 @@ The X Machine Learning (XML) group develops machine learning and deep learning a
 
 [Jiangwen Sun](http://www.engr.uconn.edu/~jis10006) 
 
+[Guoqing Chao](https://xmachinelearning.github.io/aboutus/) 
+
+[Fei Dou](https://xmachinelearning.github.io/aboutus/) 
+
+[Zigeng Wang](https://xmachinelearning.github.io/aboutus/) 
+
 
 
 ### Links
