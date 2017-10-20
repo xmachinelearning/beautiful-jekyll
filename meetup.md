@@ -15,8 +15,8 @@ subtitle: X Machine Learning (XML) Group from Prof. Jinbo Bi Lab
 | September 22, 2017 at 1-2pm |Discussion of deep learning in drug discovery: [Neural Message Passing for Quantum Chemistry](https://arxiv.org/pdf/1704.01212.pdf) |
 | October 6, 2017 at 1-3pm | [Wasserstein GAN](https://arxiv.org/abs/1701.07875)  & [Towards Principled Methods for Training Generative Adversarial Networks](https://arxiv.org/abs/1701.04862)  |
 | October 13, 2017 at 1-3pm | Discussion of [Learning Convolutional Neural Networks for Graphs](https://arxiv.org/abs/1605.05273) |
-| October 20, 2017 at 1-3pm | Coming soon |
-| October 27, 2017 at 1-3pm | Coming soon |
+| October 20, 2017 at 1-3pm | Discussion |
+| October 27, 2017 at 1-3pm | [Evolving Deep Neural Network](https://arxiv.org/abs/1703.00548)|
 | November 3, 2017 at 1-3pm | [Understanding deep scattering networks](https://arxiv.org/pdf/1601.04920.pdf) |
 
 
