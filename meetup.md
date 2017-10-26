@@ -16,7 +16,7 @@ subtitle: X Machine Learning (XML) Group from Prof. Jinbo Bi Lab
 | October 6, 2017 at 1-3pm | [Wasserstein GAN](https://arxiv.org/abs/1701.07875)  & [Towards Principled Methods for Training Generative Adversarial Networks](https://arxiv.org/abs/1701.04862)  |
 | October 13, 2017 at 1-3pm | Discussion of [Learning Convolutional Neural Networks for Graphs](https://arxiv.org/abs/1605.05273) |
 | October 20, 2017 at 1-3pm | Discussion |
-| October 27, 2017 at 1-3pm | [Evolving Deep Neural Network](https://arxiv.org/abs/1703.00548)|
+| October 27, 2017 at 1-3pm | Analysis of the source code for [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907)|
 | November 3, 2017 at 1-3pm | Reinforcement Learning|
 | November 10, 2017 at 1-3pm | [Understanding deep scattering networks](https://arxiv.org/pdf/1601.04920.pdf) |
 
