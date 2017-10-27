@@ -6,19 +6,20 @@ subtitle: X Machine Learning (XML) Group from Prof. Jinbo Bi Lab
 
 ### Schedule
 
-| Time  | Topics |
+| Time  | Topics | Presenter |
 | ------------- | ------------- |
-| July 1, 2017 at 2-3pm |  TensorFlow |
-| July 13, 2017 at 2-3pm |  PyTorch |
-| July 20, 2017 at 2-3pm |  [Energy-based Generative Adversarial Network](https://arxiv.org/abs/1609.03126) |
-| September 8, 2017 at 2-3pm |  [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907) & [VIGAN](https://arxiv.org/abs/1708.06724)|
-| September 22, 2017 at 1-2pm |Discussion of deep learning in drug discovery: [Neural Message Passing for Quantum Chemistry](https://arxiv.org/pdf/1704.01212.pdf) |
-| October 6, 2017 at 1-3pm | [Wasserstein GAN](https://arxiv.org/abs/1701.07875)  & [Towards Principled Methods for Training Generative Adversarial Networks](https://arxiv.org/abs/1701.04862)  |
-| October 13, 2017 at 1-3pm | Discussion of [Learning Convolutional Neural Networks for Graphs](https://arxiv.org/abs/1605.05273) |
-| October 20, 2017 at 1:30-3pm | Discussion |
-| October 27, 2017 at 1:30-3pm | Programming for [graph convolutional networks](https://github.com/tkipf/gcn)|
-| November 3, 2017 at 1:30-3pm | Reinforcement Learning|
-| November 10, 2017 at 1:30-3pm | [Understanding deep scattering networks](https://arxiv.org/pdf/1601.04920.pdf) |
+| July 1, 2017 at 2-3pm |  PyTorch | Chao Shang |
+| July 13, 2017 at 2-3pm |  TensorFlow | Aaron Palmer |
+| July 20, 2017 at 2-3pm |  [Energy-based Generative Adversarial Network](https://arxiv.org/abs/1609.03126) | Xia Xiao |
+| September 8, 2017 at 2-3pm |  [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907) & [VIGAN](https://arxiv.org/abs/1708.06724)| Chao Shang|
+| September 22, 2017 at 1-2pm |Discussion of deep learning in drug discovery: [Neural Message Passing for Quantum Chemistry](https://arxiv.org/pdf/1704.01212.pdf) | Chao Shang |
+| October 6, 2017 at 1-3pm | [Wasserstein GAN](https://arxiv.org/abs/1701.07875)  & [Towards Principled Methods for Training Generative Adversarial Networks](https://arxiv.org/abs/1701.04862)  | Xia Xiao |
+| October 13, 2017 at 1-3pm | Discussion of [Learning Convolutional Neural Networks for Graphs](https://arxiv.org/abs/1605.05273) | Chao Shang |
+| October 20, 2017 at 1:30-3pm | Discussion |  Chao Shang |
+| October 27, 2017 at 1:30-3pm | Programming for [graph convolutional networks](https://github.com/tkipf/gcn)| Qinqing Liu |
+| November 3, 2017 at 1:30-3pm | Reinforcement Learning| Fei Dou |
+| November 10, 2017 at 1:30-3pm | [Understanding deep scattering networks](https://arxiv.org/pdf/1601.04920.pdf) | Jin Lu|
+| November 10, 2017 at 1:30-3pm | TBD | TBD |
 
 
 Location: ITEB 201A
