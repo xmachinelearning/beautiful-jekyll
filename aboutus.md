@@ -29,7 +29,7 @@ The X Machine Learning (XML) group develops machine learning and deep learning a
 
 [Zigeng Wang](https://xmachinelearning.github.io/aboutus/) 
 
-[Qinqing Liu](https://xmachinelearning.github.io/aboutus/) 
+[Qinqing Liu](http://qinqingliu.com/) 
 
 
 
