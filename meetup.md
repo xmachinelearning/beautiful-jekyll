@@ -17,9 +17,9 @@ subtitle: X Machine Learning (XML) Group from Prof. Jinbo Bi Lab
 | October 13, 2017 at 1-3pm | Discussion of [Learning Convolutional Neural Networks for Graphs](https://arxiv.org/abs/1605.05273) | Chao Shang |
 | October 20, 2017 at 1:30-3pm | Discussion |  Chao Shang |
 | October 27, 2017 at 1:30-3pm | Programming for [graph convolutional networks](https://github.com/tkipf/gcn)| Qinqing Liu |
-| November 3, 2017 at 1:30-3pm | Reinforcement Learning| Fei Dou |
-| November 10, 2017 at 1:30-3pm | [Understanding deep scattering networks](https://arxiv.org/pdf/1601.04920.pdf) | Jin Lu|
-| November 10, 2017 at 1:30-3pm | TBD | TBD |
+| November 3, 2017 at 1:30-3pm | [Understanding deep scattering networks](https://arxiv.org/pdf/1601.04920.pdf) | Jin Lu|
+| November 10, 2017 at 1:30-3pm | Reinforcement Learning| Fei Dou |
+| November 17, 2017 at 1:30-3pm | TBD | TBD |
 
 
 Location: ITEB 201A
