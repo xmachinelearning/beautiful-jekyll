@@ -20,6 +20,8 @@ subtitle: X Machine Learning (XML) Group from Prof. Jinbo Bi Lab
 | November 3, 2017 at 1:30-3pm | [Understanding deep scattering networks](https://arxiv.org/pdf/1601.04920.pdf) | Jin Lu|
 | November 10, 2017 at 1:30-3pm | Research Discussion | All Members |
 | November 17, 2017 at 1:30-3pm | Reinforcement Learning | Fei Dou |
+| Nov. 24 - Dec. 15, 2017 | Final Weeks Break |  |
+| December 22, 2017 at 1:30-3pm | Comming soon | All Members |
 
 
 Location: ITEB 201A
