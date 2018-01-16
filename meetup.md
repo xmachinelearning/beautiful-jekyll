@@ -8,6 +8,7 @@ subtitle: X Machine Learning (XML) Group from Prof. Jinbo Bi Lab
 
 | Time  | Topics | Presenter |
 | ------------- | ------------- |
+| 2017 | ------------- |
 | July 1, 2017 at 2-3pm |  PyTorch | Chao Shang |
 | July 13, 2017 at 2-3pm |  TensorFlow | Aaron Palmer |
 | July 20, 2017 at 2-3pm |  [Energy-based Generative Adversarial Network](https://arxiv.org/abs/1609.03126) | Xia Xiao |
@@ -21,7 +22,9 @@ subtitle: X Machine Learning (XML) Group from Prof. Jinbo Bi Lab
 | November 10, 2017 at 1:30-3pm | Research Discussion | All Members |
 | November 17, 2017 at 1:30-3pm | Reinforcement Learning | Fei Dou |
 | Nov. 24 - Dec. 15, 2017 | Final Weeks Break |  |
-| December 22, 2017 at 1:30-3pm | Comming soon | All Members |
+| 2018 | ------------- |
+| January 19, 2018 at 1:30-3:30pm | Graph Attention Networks | Chao Shang |
+| January 26, 2018 at 1:30-3:30pm | Coming soon |  |
 
 
 Location: ITEB 201A
