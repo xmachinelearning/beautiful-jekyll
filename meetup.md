@@ -23,7 +23,7 @@ subtitle: X Machine Learning (XML) Group from Prof. Jinbo Bi Lab
 | November 17, 2017 at 1:30-3pm | Reinforcement Learning | Fei Dou |
 | Nov. 24 - Dec. 15, 2017 | Final Weeks Break |  |
 | 2018 | | |
-| January 19, 2018 at 1:30-3:30pm | Graph Attention Networks | Chao Shang |
+| January 19, 2018 at 1:30-3:30pm | [Graph Attention Networks](https://arxiv.org/pdf/1710.10903.pdf) | Chao Shang |
 | January 26, 2018 at 1:30-3:30pm | Coming soon |  |
 
 
