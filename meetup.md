@@ -24,7 +24,7 @@ subtitle: X Machine Learning (XML) Group from Prof. Jinbo Bi Lab
 | Nov. 24 - Dec. 15, 2017 | Final Weeks Break |  |
 | 2018 | | |
 | January 19, 2018 at 1:30-3:30pm | [Graph Attention Networks](https://arxiv.org/pdf/1710.10903.pdf) | Chao Shang |
-| January 26, 2018 at 1:30-3:30pm | Coming soon |  |
+| January 26, 2018 at 1:30-3:30pm | Discussion | All Members  |
 | February 2, 2018 at 1:30-3:30pm | Monte-Carlo Tree Search Algorithm | Tan Zhu  |
 
 
