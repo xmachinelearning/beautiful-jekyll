@@ -25,8 +25,8 @@ subtitle: X Machine Learning (XML) Group from Prof. Jinbo Bi Lab
 | 2018 | | |
 | January 19, 2018 at 1:30-3:30pm | [Graph Attention Networks](https://arxiv.org/pdf/1710.10903.pdf) | Chao Shang |
 | January 26, 2018 at 1:30-3:30pm | Discussion | All Members  |
-| February 16, 2018 at 1:30-3:30pm | Monte-Carlo Tree Search Algorithm | Tan Zhu  |
-| March 2, 2018 at 1:30-3:30pm | [Predicting Organic Reaction Outcomes with Weisfeiler-Lehman Network](http://papers.nips.cc/paper/6854-predicting-organic-reaction-outcomes-with-weisfeiler-lehman-network.pdf) | Xia Xiao  |
+| March 2, 2018 at 1:30-3:30pm | Monte-Carlo Tree Search Algorithm | Tan Zhu  |
+| March 9, 2018 at 1:30-3:30pm | [Predicting Organic Reaction Outcomes with Weisfeiler-Lehman Network](http://papers.nips.cc/paper/6854-predicting-organic-reaction-outcomes-with-weisfeiler-lehman-network.pdf) | Xia Xiao  |
 
 
 Location: ITEB 201A
