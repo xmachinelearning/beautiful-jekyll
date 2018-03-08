@@ -28,7 +28,8 @@ subtitle: X Machine Learning (XML) Group from Prof. Jinbo Bi Lab
 | March 2, 2018 at 1:30-3:30pm | Monte-Carlo Tree Search Algorithm | Tan Zhu  |
 | March 9, 2018 at 1:30-3:30pm | Poster Competition (ITEB Lobby) | All Members  |
 | March 16, 2018 at 1:30-3:30pm | [Predicting Organic Reaction Outcomes with Weisfeiler-Lehman Network](http://papers.nips.cc/paper/6854-predicting-organic-reaction-outcomes-with-weisfeiler-lehman-network.pdf) | Xia Xiao  |
-| March 23, 2018 at 1:30-3:30pm | [coming soon | Chao Shang  |
+| March 23, 2018 at 1:30-3:30pm | Coming soon | Chao Shang  |
+
 
 
 Location: ITEB 201A
