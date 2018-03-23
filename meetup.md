@@ -35,6 +35,12 @@ subtitle: X Machine Learning (XML) Group from Prof. Jinbo Bi Lab
 
 Location: ITEB 201A
 
+### Related Conferences
+
+[Artificial Intelligence for Drug Discovery](http://www.cbinet.com/conference/agenda/pc18408) 
+ Time: Wednesday, May 23, 2018
+
+
 
 
 ### Links
