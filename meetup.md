@@ -21,7 +21,7 @@ subtitle: X Machine Learning (XML) Group from Prof. Jinbo Bi Lab
 | November 3, 2017 at 1:30-3pm | [Understanding deep scattering networks](https://arxiv.org/pdf/1601.04920.pdf) | Jin Lu|
 | November 10, 2017 at 1:30-3pm | Research Discussion | All Members |
 | November 17, 2017 at 1:30-3pm | Reinforcement Learning | Fei Dou |
-| Nov. 24 - Dec. 15, 2017 | Final Weeks Break |  |
+| Final Weeks  | Break | All Members  |
 | 2018 | | |
 | January 19, 2018 at 1:30-3:30pm | [Graph Attention Networks](https://arxiv.org/pdf/1710.10903.pdf) | Chao Shang |
 | January 26, 2018 at 1:30-3:30pm | Discussion | All Members  |
@@ -32,7 +32,8 @@ subtitle: X Machine Learning (XML) Group from Prof. Jinbo Bi Lab
 | March 30, 2018 at 1:30-2:30pm | [The rise of deep learning in drug discovery](https://www.sciencedirect.com/science/article/pii/S1359644617303598) | Chao Shang |
 | March 30, 2018 at 2:30-3:30pm | [Tunneling Neural Perception and Logic Reasoning through Abductive Learning](https://arxiv.org/pdf/1802.01173.pdf) | Jin Lu |
 | April 6, 2018 at 1:30-3:30pm | [Planning chemical syntheses with deep neural networks and symbolic AI](https://www.nature.com/articles/nature25978) (ITEB 217)| Chao Shang  |
-| April 20, 2018 at 1:30-3:30pm | Coming soon | All Members  |
+| April 20, 2018 at 1:30-3:30pm | Discussion | All Members  |
+| Final Weeks | Break | All Members  |
 
 
 
