@@ -22,7 +22,7 @@ subtitle: X Machine Learning (XML) Group from Prof. Jinbo Bi Lab
 | November 10, 2017 at 1:30-3pm | Research Discussion | All Members |
 | November 17, 2017 at 1:30-3pm | Reinforcement Learning | Fei Dou |
 | | Final Weeks Break | All Members  |
-| 2018 | | |
+| 2018 Spring | | |
 | January 19, 2018 at 1:30-3:30pm | [Graph Attention Networks](https://arxiv.org/pdf/1710.10903.pdf) | Chao Shang |
 | January 26, 2018 at 1:30-3:30pm | Discussion | All Members  |
 | March 2, 2018 at 1:30-3:30pm | Monte-Carlo Tree Search Algorithm | Tan Zhu  |
@@ -34,16 +34,13 @@ subtitle: X Machine Learning (XML) Group from Prof. Jinbo Bi Lab
 | April 6, 2018 at 1:30-3:30pm | [Planning chemical syntheses with deep neural networks and symbolic AI](https://www.nature.com/articles/nature25978) (ITEB 217)| Chao Shang  |
 | April 20, 2018 at 1:30-3:30pm | Discussion(ITEB C27) | All Members  |
 | | Final Weeks Break | All Members  |
-
-
+| 2018 Fall | | |
+| September 7, 2018 at 4:00-5:00pm | [Convolutional 2D Knowledge Graph Embeddings](https://arxiv.org/abs/1707.01476)  | Chao Shang  |
+| September 14, 2018 at 4:00-5:00pm | Coming soon  |   |
 
 Location: ITEB 201A
 
 ### Related Conferences
-
-[Artificial Intelligence for Drug Discovery](http://www.cbinet.com/conference/agenda/pc18408) 
- Time: Wednesday, May 23, 2018
-
 
 
 
