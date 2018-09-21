@@ -37,6 +37,7 @@ subtitle: X Machine Learning (XML) Group from Prof. Jinbo Bi Lab
 | 2018 Fall | | |
 | September 7, 2018 at 4:00-5:00pm | [Convolutional 2D Knowledge Graph Embeddings](https://arxiv.org/abs/1707.01476)  | Chao Shang  |
 | September 14, 2018 at 4:00-5:00pm | [Latent Space Oddity: on the Curvature of Deep Generative Models](https://arxiv.org/pdf/1710.11379.pdf) | Xingyu Cai  |
+| September 21, 2018 at 4:00-5:00pm | [Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition](https://arxiv.org/abs/1801.07455) | Chao Shang |
 
 Location: ITEB 201A
 
