@@ -38,7 +38,7 @@ subtitle: X Machine Learning (XML) Group from Prof. Jinbo Bi Lab
 | September 7, 2018 at 4:00-5:00pm | [Convolutional 2D Knowledge Graph Embeddings](https://arxiv.org/abs/1707.01476)  | Chao Shang  |
 | September 14, 2018 at 4:00-5:00pm | [Latent Space Oddity: on the Curvature of Deep Generative Models](https://arxiv.org/pdf/1710.11379.pdf) | Xingyu Cai  |
 | September 28, 2018 at 4:00-5:00pm | [Rethinking statistical learning theory: learning using statistical invariants](https://link.springer.com/article/10.1007/s10994-018-5742-0) | Jin Lu |
-| October 5, 2018 at 4:00-5:00pm | [Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering](https://arxiv.org/abs/1606.09375) | Chao Shang |
+| October 5, 2018 at 4:00-5:00pm | [Hierarchical Graph Representation Learning with Differentiable Pooling](https://arxiv.org/abs/1806.08804) | Chao Shang |
 
 Location: ITEB 201A
 
