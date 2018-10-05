@@ -39,6 +39,7 @@ subtitle: X Machine Learning (XML) Group from Prof. Jinbo Bi Lab
 | September 14, 2018 at 4:00-5:00pm | [Latent Space Oddity: on the Curvature of Deep Generative Models](https://arxiv.org/pdf/1710.11379.pdf) | Xingyu Cai  |
 | September 28, 2018 at 4:00-5:00pm | [Rethinking statistical learning theory: learning using statistical invariants](https://link.springer.com/article/10.1007/s10994-018-5742-0) | Jin Lu |
 | October 12, 2018 at 4:00-5:00pm | [Hierarchical Graph Representation Learning with Differentiable Pooling](https://arxiv.org/abs/1806.08804) | Chao Shang |
+| October 19, 2018 at 4:00-5:00pm | Coming Soon | Tan Zhu |
 
 Location: ITEB 201A
 
