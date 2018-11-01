@@ -41,7 +41,7 @@ subtitle: X Machine Learning (XML) Group from Prof. Jinbo Bi Lab
 | October 12, 2018 at 4:00-5:00pm | [Hierarchical Graph Representation Learning with Differentiable Pooling](https://arxiv.org/abs/1806.08804) | Chao Shang |
 | October 19, 2018 at 4:00-5:00pm | [On Kernelized Multi-armed Bandits](https://arxiv.org/pdf/1704.00445.pdf) | Tan Zhu |
 | October 26, 2018 at 4:00-5:00pm | [Escaping Saddles with Stochastic Gradients](https://arxiv.org/abs/1803.05999) | Guannan Liang |
-| November 2, 2018 at 4:00-5:00pm | Coming Soon | Xia Xiao |
+| November 2, 2018 at 4:00-5:00pm | [Dropout as a Bayesian Approximation](https://arxiv.org/pdf/1506.02142.pdf), [Variabtional Dropout](https://arxiv.org/abs/1506.02557) & [Adversarial Dropout](https://openreview.net/pdf?id=HJIoJWZCZ) | Xia Xiao |
 | November 9, 2018 at 4:00-5:00pm |  |  |
 
 Location: ITEB 201A
