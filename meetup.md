@@ -33,6 +33,8 @@ subtitle: X Machine Learning (XML) Group from Prof. Jinbo Bi Lab
 | March 30, 2018 at 2:30-3:30pm | [Tunneling Neural Perception and Logic Reasoning through Abductive Learning](https://arxiv.org/pdf/1802.01173.pdf) | Jin Lu |
 | April 6, 2018 at 1:30-3:30pm | [Planning chemical syntheses with deep neural networks and symbolic AI](https://www.nature.com/articles/nature25978) (ITEB 217)| Chao Shang  |
 | April 20, 2018 at 1:30-3:30pm | Discussion(ITEB C27) | All Members  |
+| April 27, 2018 at 1:30-3:30pm | [Hierarchical Implicit Models and
+Likelihood-Free Variational Inference](https://arxiv.org/pdf/1702.08896.pdf) |   |
 | | Final Weeks Break | All Members  |
 | 2018 Fall | | |
 | September 7, 2018 at 4:00-5:00pm | [Convolutional 2D Knowledge Graph Embeddings](https://arxiv.org/abs/1707.01476)  | Chao Shang  |
