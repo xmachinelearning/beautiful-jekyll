@@ -43,7 +43,8 @@ subtitle: X Machine Learning (XML) Group from Prof. Jinbo Bi Lab
 | October 19, 2018 at 4:00-5:00pm | [On Kernelized Multi-armed Bandits](https://arxiv.org/pdf/1704.00445.pdf) | Tan Zhu |
 | October 26, 2018 at 4:00-5:00pm | [Escaping Saddles with Stochastic Gradients](https://arxiv.org/abs/1803.05999) | Guannan Liang |
 | November 2, 2018 at 4:00-5:00pm | [Dropout as a Bayesian Approximation](https://arxiv.org/pdf/1506.02142.pdf) & [Variabtional Dropout](https://arxiv.org/abs/1506.02557) & [Adversarial Dropout](https://openreview.net/pdf?id=HJIoJWZCZ) | Xia Xiao |
-| November 23, 2018 at 4:00-5:00pm | Coming Soon | Fei Dou |
+| November 23, 2018 at 4:00-5:00pm | [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497) | Fei Dou |
+| December 7, 2018 at 4:00-5:00pm | [DropBlock: A regularization method for convolutional networks](https://papers.nips.cc/paper/8271-dropblock-a-regularization-method-for-convolutional-networks) | Zigeng Wang |
 
 Location: ITEB 201A
 
