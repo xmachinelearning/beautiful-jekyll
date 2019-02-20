@@ -53,8 +53,7 @@ Location: ITEB 201B
 Time: 1:30-2:30 Friday
 
 ### Conferences
-Deadlines:
-https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM
+[Conference Deadlines](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM) are coming!!!
 
 
 ### Links
