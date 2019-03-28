@@ -50,7 +50,8 @@ subtitle: X Machine Learning (XML) Group from Prof. Jinbo Bi Lab
 | Feb. 22, 2019 at 1:30-2:30pm | [Practical Optimization Methods and Their Generalization Performance in Deep Learning](https://arxiv.org/pdf/1802.05074.pdf) | Guannan Liang |
 | Mar. 8, 2019 at 1:30-2:30pm | [Monte-CarloTree Search for Constrained POMDPs](http://papers.nips.cc/paper/8017-monte-carlo-tree-search-for-constrained-pomdps) | Tan Zhu |
 | Mar. 15, 2019 at 1:30-2:30pm | Towards Provable and Scalable Machine Learning | Jin Lu |
-| Mar. 29, 2019 at 1:30-2:30pm | Adversarial Learning and Adversarial Examples | Xia Xiao |
+| Mar. 29, 2019 at 1:30-2:30pm | [Transformation Invariance in Convolution Neural Networks](https://arxiv.org/abs/1506.02025) | Xia Xiao |
+| April 5, 2019 at 1:30-2:30pm | Coming Soon |  |
 
 Location: ITEB 201B
 Time: 1:30-2:30 Friday
