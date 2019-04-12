@@ -51,7 +51,7 @@ subtitle: X Machine Learning (XML) Group from Prof. Jinbo Bi Lab
 | Mar. 8, 2019 at 1:30-2:30pm | [Monte-CarloTree Search for Constrained POMDPs](http://papers.nips.cc/paper/8017-monte-carlo-tree-search-for-constrained-pomdps) | Tan Zhu |
 | Mar. 15, 2019 at 1:30-2:30pm | Towards Provable and Scalable Machine Learning | Jin Lu |
 | Mar. 29, 2019 at 1:30-2:30pm | [Transformation Invariance in Convolution Neural Networks](https://arxiv.org/abs/1506.02025) | Xia Xiao |
-| April 5, 2019 at 1:30-2:30pm | Coming Soon |  |
+| April 12, 2019 at 1:30-2:30pm | Scale Invariance in Object Detection | Fei Dou |
 
 Location: ITEB 201B
 Time: 1:30-2:30 Friday
