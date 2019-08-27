@@ -4,9 +4,7 @@ title: Meetup
 subtitle: X Machine Learning (XML) --- Reading Group
 ---
 
-**Location**: ITEB 201A&B
-
-**Time**: 2:00-3:00 PM, Thursday
+**Location**: ITEB 201A&B    **Time**: 2:00-3:00 PM, every Thursday
 
 ### Schedule
 
