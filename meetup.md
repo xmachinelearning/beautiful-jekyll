@@ -4,6 +4,9 @@ title: Meetup
 subtitle: X Machine Learning (XML) --- Reading Group
 ---
 
+Location: ITEB 201A&B
+Time: 2:00-3:00 PM, Thursday
+
 ### Schedule
 
 | Time  | Topics | Presenter |
@@ -54,8 +57,8 @@ subtitle: X Machine Learning (XML) --- Reading Group
 | July 1, 2017 at 2-3pm |  PyTorch | Chao Shang |
 
 
-Location: ITEB 201A
-Time: XXX
+Location: ITEB 201A&B
+Time: 2:00-3:00 PM, Thursday
 
 ### Conferences
 [Conference Deadlines](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM) are coming!!!
