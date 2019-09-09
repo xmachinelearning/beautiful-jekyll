@@ -11,7 +11,7 @@ subtitle: X Machine Learning (XML) --- Reading Group
 | Time  | Topics | Presenter |
 | ------------- | ------------- |
 | 2019 Fall | | |
-| XXX | Coming Soon!| |
+| September 12, 2019 at 3:30-4:30pm | [Learning Discrete Structures for Graph Neural Networks](https://arxiv.org/pdf/1903.11960.pdf)| Chao Shang|
 | 2019 Spring | | |
 | April 12, 2019 at 1:30-2:30pm | Scale Invariance in Object Detection | Fei Dou |
 | Mar. 29, 2019 at 1:30-2:30pm | [Transformation Invariance in Convolution Neural Networks](https://arxiv.org/abs/1506.02025) | Xia Xiao |
