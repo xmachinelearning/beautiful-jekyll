@@ -11,7 +11,7 @@ subtitle: X Machine Learning (XML) --- Reading Group
 | Time  | Topics | Presenter |
 | ------------- | ------------- |
 | 2019 Fall | | |
-| Oct. 3, 2019 at 3:30-4:30pm | Gradient Based Neuron Architecture Search | Xia Xiao |
+| Oct. 3, 2019 at 3:30-4:30pm | [Gradient Based Neuron Architecture Search](https://arxiv.org/pdf/1806.09055.pdf) | Xia Xiao |
 | Sep. 19, 2019 at 3:30-4:30pm | [Stochastic Structured Prediction under Bandit Feedback](https://arxiv.org/pdf/1606.00739.pdf)| Tan Zhu|
 | Sep. 12, 2019 at 3:30-4:30pm | [Learning Discrete Structures for Graph Neural Networks](https://arxiv.org/pdf/1903.11960.pdf)| Chao Shang|
 | 2019 Spring | | |
